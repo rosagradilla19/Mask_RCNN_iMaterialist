@@ -1,5 +1,5 @@
 # Mask_RCNN_iMaterialist
-Kaggle competition
+
 
 This project involves a clothing dataset with the goal of introducing a novel fine-grained segmentation task by 
 joining forces between the fashion and computer vision communities. The proposed task unifies both 
